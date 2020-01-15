@@ -1,7 +1,7 @@
 class HitungCharacter {
     static void countEachChar(String str) 
    { 
-	//ASCII values ranges upto 256
+	//ASCI values ranges upto 256
 	int counter[] = new int[256]; 
 
 	//String length
